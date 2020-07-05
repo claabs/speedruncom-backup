@@ -1,0 +1,27 @@
+{
+  "name": "speedruncom-backup",
+  "version": "1.0.0",
+  "description": "Backup all data and image assets related to a game on speedrun.com to JSON files",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claabs/speedruncom-backup.git"
+  },
+  "keywords": [
+    "speedrun",
+    "speedrun.com",
+    "backup"
+  ],
+  "author": "Charlie Laabs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/claabs/speedruncom-backup/issues"
+  },
+  "homepage": "https://github.com/claabs/speedruncom-backup#readme",
+  "dependencies": {
+    "got": "^11.4.0"
+  }
+}
