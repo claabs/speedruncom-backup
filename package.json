@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/claabs/speedruncom-backup#readme",
   "dependencies": {
-    "got": "^11.4.0"
+    "got": "^11.8.5"
   }
 }
